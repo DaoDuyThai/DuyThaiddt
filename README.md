@@ -7,6 +7,7 @@
 - 👀 Beyond the lines of codes, I enjoy writing blog, making Youtube and Tiktok contents about productivity, developing and designing.
 
 ## 🔗 How to reach me:
+
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daoduythai.business@gmail.com)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://codewithdt.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dduythai/)
