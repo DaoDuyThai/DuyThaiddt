@@ -3,11 +3,9 @@
 ## ⚡️ About me
 
 - 🧑‍💻 I am a versatile software engineer, adept in crafting innovative solutions for large-scale systems, ERP, and MES in Hanoi, Vietnam.
-
 - 🎨 I’m also a dedicated UX/UI designer. I blend technical expertise with design sensibilities to create solutions that not only work seamlessly but also offer a visually appealing and user-friendly experience.
-
 - 👀 Beyond the lines of codes, I enjoy writing blog, making Youtube and Tiktok contents about productivity, developing and designing.
-- 
+
 ## 🔗 How to reach me:
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daoduythai.business@gmail.com)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://codewithdt.com/)
