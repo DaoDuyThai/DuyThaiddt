@@ -5,6 +5,5 @@
   SOCIALS:  
   + Instagram: @dduy_thai          
   + Facebook: https://www.facebook.com/duythai.ddt/
-
-BUSINESS INQUIRIES ONLY: dduythai.ddt@gmail.com && daodduythai.working@gmail.com
+BUSINESS INQUIRIES ONLY: dduythai.ddt@gmail.com || daodduythai.working@gmail.com
 
