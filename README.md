@@ -7,6 +7,7 @@
 - 👀 Beyond the lines of codes, I enjoy writing blog, making Youtube and Tiktok contents about productivity, developing and designing.
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=DuyThaiddt&theme=blue-green)](https://github.com/DuyThaiddt/github-readme-stats)
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuyThaiddt&theme=blue-green)](https://github.com/DuyThaiddt/github-readme-stats)
 
 ## 🔗 How to reach me:
 
