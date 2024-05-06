@@ -6,6 +6,8 @@
 - 🎨 I’m also a dedicated UX/UI designer. I blend technical expertise with design sensibilities to create solutions that not only work seamlessly but also offer a visually appealing and user-friendly experience.
 - 👀 Beyond the lines of codes, I enjoy writing blog, making Youtube and Tiktok contents about productivity, developing and designing.
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=DuyThaiddt&theme=blue-green)](https://github.com/DuyThaiddt/github-readme-stats)
+
 ## 🔗 How to reach me:
 
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio.codewithdt.com/)
