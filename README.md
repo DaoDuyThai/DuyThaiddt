@@ -11,6 +11,8 @@
 
 [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=DuyThaiddt&theme=blue-green)](https://github.com/DuyThaiddt/github-readme-streak-stats)
 
+[![GitHub version](https://badge.fury.io/gh/DuyThaiddt%2FStrapDown.js.svg)](https://github.com/DuyThaiddt/StrapDown.js)
+
 ## 🔗 How to reach me:
 
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio.codewithdt.com/)
